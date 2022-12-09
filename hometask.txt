@@ -1,0 +1,3 @@
+Появилсиь пуговицы и изменилась шляпа с ботинками.
+
+init, heat added, boots, Redme added, dots
